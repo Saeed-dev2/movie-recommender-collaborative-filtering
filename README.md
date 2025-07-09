@@ -48,14 +48,6 @@ This project simulates a real-world scenario where users rate movies, and the sy
 
 ## 🛠️ Getting Started
 
-### 📥 Download the Project
-
-You can download or clone the project:
-
-```bash
-git clone https://github.com/your-username/movie-recommender-collaborative-filtering.git
-cd movie-recommender-collaborative-filtering
-```
 
 ### 📁 Required Files
 
@@ -65,7 +57,6 @@ Place the following files in your working directory:
 - `ex8_movieParams.mat`
 - `movie_ids.txt`
 
-You can download them from the [Coursera ML Course Dataset](https://github.com/kaleko/CourseraML/tree/master/machine-learning-ex8/ex8).
 
 ### ✅ Install Dependencies
 
