@@ -2,7 +2,6 @@
 
 A real-world movie recommendation system that leverages **collaborative filtering** and **matrix factorization** to predict personalized movie preferences. Built using the **MovieLens 100k dataset**, this project demonstrates how machine learning can be applied to solve the problem of information overload on streaming platforms.
 
-
 ---
 
 ## 📌 Table of Contents
