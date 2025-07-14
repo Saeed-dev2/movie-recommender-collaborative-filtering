@@ -89,7 +89,6 @@ Predicting rating 9.75 for movie Wrong Trousers, The (1993)
 Predicting rating 9.74 for movie Fargo (1996)
 ...
 ```
-
 ---
 
 ## 🧰 Technologies Used
