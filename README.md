@@ -102,6 +102,7 @@ Predicting rating 9.74 for movie Fargo (1996)
 
 ---
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
